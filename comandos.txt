@@ -1,3 +1,5 @@
+OK - Professor Parisotto
+
 # Como vincular um repositório do GitHub com o Visual Studio Code
 1 No GitHub, abra o repositório e clique no botão CODE -> Local -> copiar link do repositório
 2 No Visual Studio Code, abra a pasta de seus projetos ( Documentos/Python/ )
